@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/zhengyang/ProgramFile/hugo.acezy.top",
+	"sourceRoot": "/home/runner/work/Yang-s-Blog-Web/Yang-s-Blog-Web",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/lib/normalize/normalize.css",
