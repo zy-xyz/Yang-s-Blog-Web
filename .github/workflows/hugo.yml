@@ -25,11 +25,15 @@ jobs:
 
       - name: Build
         run: hugo --minify
-
+             git config user.name "github-actions[bot]"
+             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+             git add ./public
+             git commit -m "generated"
+             git push
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          target_branch: 'main'   # 替换为你的目标分支名称
+
