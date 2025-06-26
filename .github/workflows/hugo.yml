@@ -3,7 +3,7 @@ name: Deploy with Hugo
 on:
   push:
 分支:
-      - master # 或者你想触发的分支
+      - main # 或者你想触发的分支
 
 jobs:
   build-deploy:
