@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/zh-cn/sitemap.xml</loc>
+    <loc>https://hugo.acezy.top/zh-cn/sitemap.xml</loc>
     
       <lastmod>2025-06-26T20:41:47+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://hugo.acezy.top/en/sitemap.xml</loc>
     
       <lastmod>2025-06-26T20:41:47+08:00</lastmod>
     

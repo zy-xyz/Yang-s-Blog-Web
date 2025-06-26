@@ -2,237 +2,237 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/en/theme-documentation-basics/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-basics/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-basics/"
+                        href="https://hugo.acezy.top/theme-documentation-basics/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-basics/"
+                    href="https://hugo.acezy.top/en/theme-documentation-basics/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-content/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-content/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-content/"
+                        href="https://hugo.acezy.top/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-content/"
+                    href="https://hugo.acezy.top/en/theme-documentation-content/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-built-in-shortcodes/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-built-in-shortcodes/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-built-in-shortcodes/"
+                        href="https://hugo.acezy.top/theme-documentation-built-in-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-built-in-shortcodes/"
+                    href="https://hugo.acezy.top/en/theme-documentation-built-in-shortcodes/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-extended-shortcodes/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-extended-shortcodes/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-extended-shortcodes/"
+                        href="https://hugo.acezy.top/theme-documentation-extended-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-extended-shortcodes/"
+                    href="https://hugo.acezy.top/en/theme-documentation-extended-shortcodes/"
                     /></url><url>
-            <loc>http://localhost:1313/en/basic-markdown-syntax/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/basic-markdown-syntax/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/basic-markdown-syntax/"
+                        href="https://hugo.acezy.top/basic-markdown-syntax/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/basic-markdown-syntax/"
+                    href="https://hugo.acezy.top/en/basic-markdown-syntax/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-mermaid-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-mermaid-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-mermaid-shortcode/"
+                        href="https://hugo.acezy.top/theme-documentation-mermaid-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-mermaid-shortcode/"
+                    href="https://hugo.acezy.top/en/theme-documentation-mermaid-shortcode/"
                     /></url><url>
-            <loc>http://localhost:1313/en/emoji-support/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/emoji-support/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/emoji-support/"
+                        href="https://hugo.acezy.top/emoji-support/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/emoji-support/"
+                    href="https://hugo.acezy.top/en/emoji-support/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-echarts-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-echarts-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-echarts-shortcode/"
+                        href="https://hugo.acezy.top/theme-documentation-echarts-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-echarts-shortcode/"
+                    href="https://hugo.acezy.top/en/theme-documentation-echarts-shortcode/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-mapbox-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-mapbox-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-mapbox-shortcode/"
+                        href="https://hugo.acezy.top/theme-documentation-mapbox-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-mapbox-shortcode/"
+                    href="https://hugo.acezy.top/en/theme-documentation-mapbox-shortcode/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-music-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-music-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-music-shortcode/"
+                        href="https://hugo.acezy.top/theme-documentation-music-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-music-shortcode/"
+                    href="https://hugo.acezy.top/en/theme-documentation-music-shortcode/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-bilibili-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-bilibili-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-bilibili-shortcode/"
+                        href="https://hugo.acezy.top/theme-documentation-bilibili-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-bilibili-shortcode/"
+                    href="https://hugo.acezy.top/en/theme-documentation-bilibili-shortcode/"
                     /></url><url>
-            <loc>http://localhost:1313/en/theme-documentation-typeit-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/theme-documentation-typeit-shortcode/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/theme-documentation-typeit-shortcode/"
+                        href="https://hugo.acezy.top/theme-documentation-typeit-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/theme-documentation-typeit-shortcode/"
+                    href="https://hugo.acezy.top/en/theme-documentation-typeit-shortcode/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/categories/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/categories/"
+                        href="https://hugo.acezy.top/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/categories/"
+                    href="https://hugo.acezy.top/en/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/configuration/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/tags/configuration/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/configuration/"
+                        href="https://hugo.acezy.top/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/configuration/"
+                    href="https://hugo.acezy.top/en/tags/configuration/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/installation/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/tags/installation/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/installation/"
+                        href="https://hugo.acezy.top/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/installation/"
+                    href="https://hugo.acezy.top/en/tags/installation/"
                     /></url><url>
-            <loc>http://localhost:1313/en/posts/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/posts/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/posts/"
+                        href="https://hugo.acezy.top/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/posts/"
+                    href="https://hugo.acezy.top/en/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/tags/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/"
+                        href="https://hugo.acezy.top/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/"
+                    href="https://hugo.acezy.top/en/tags/"
                     /></url><url>
-            <loc>http://localhost:1313/en/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/"
+                        href="https://hugo.acezy.top/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/"
+                    href="https://hugo.acezy.top/en/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/content/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/tags/content/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/content/"
+                        href="https://hugo.acezy.top/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/content/"
+                    href="https://hugo.acezy.top/en/tags/content/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/markdown/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/tags/markdown/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/markdown/"
+                        href="https://hugo.acezy.top/tags/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/markdown/"
+                    href="https://hugo.acezy.top/en/tags/markdown/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/shortcodes/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/tags/shortcodes/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/shortcodes/"
+                        href="https://hugo.acezy.top/tags/shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/shortcodes/"
+                    href="https://hugo.acezy.top/en/tags/shortcodes/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/html/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/tags/html/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/html/"
+                        href="https://hugo.acezy.top/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/html/"
+                    href="https://hugo.acezy.top/en/tags/html/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/markdown/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/categories/markdown/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/categories/markdown/"
+                        href="https://hugo.acezy.top/categories/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/categories/markdown/"
+                    href="https://hugo.acezy.top/en/categories/markdown/"
                     /></url><url>
-            <loc>http://localhost:1313/en/tags/emoji/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/tags/emoji/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/tags/emoji/"
+                        href="https://hugo.acezy.top/tags/emoji/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/tags/emoji/"
+                    href="https://hugo.acezy.top/en/tags/emoji/"
                     /></url><url>
-            <loc>http://localhost:1313/en/about/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/about/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/about/"
+                        href="https://hugo.acezy.top/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/about/"
+                    href="https://hugo.acezy.top/en/about/"
                     /></url><url>
-            <loc>http://localhost:1313/en/categories/documentation/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://hugo.acezy.top/en/categories/documentation/</loc><lastmod>2025-06-26T20:41:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/categories/documentation/"
+                        href="https://hugo.acezy.top/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/en/categories/documentation/"
+                    href="https://hugo.acezy.top/en/categories/documentation/"
                     /></url></urlset>
