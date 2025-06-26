@@ -2,7 +2,7 @@ name: Deploy with Hugo
 
 on:
   push:
-分支:
+    branches:
       - main # 或者你想触发的分支
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo_version: '0.147.9'
+        hugo_version: '0.78.2'
         extended: true
     - name: Build Site
       run: hugo
