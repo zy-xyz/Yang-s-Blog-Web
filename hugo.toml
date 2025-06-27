@@ -265,7 +265,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       avatarURL = "/images/avatar.png"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = ""
+      title = "Yang’s Blog"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
       subtitle = "A Clean, Elegant but Advanced Hugo Theme"
@@ -288,12 +288,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
+    GitHub = "https://github.com/zy-xyz"
     Linkedin = ""
-    X = ""
+    X = "https://x.com/596546419_zzzz"
     Instagram = ""
     Facebook = ""
-    Telegram = ""
+    Telegram = "https://t.me/zyxyx111"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -326,12 +326,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Hackernews = ""
     Kickstarter = ""
     Patreon = ""
-    Steam = ""
+    Steam = "https://steamcommunity.com/id/76561198861169820/"
     Twitch = ""
     Strava = ""
     Skype = ""
     Whatsapp = ""
-    Zhihu = ""
+    Zhihu = "https://www.zhihu.com/people/d9aea4269bc85cd6616d3f6debb91b59"
     Douban = ""
     Angellist = ""
     Slidershare = ""
@@ -349,7 +349,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Gitea = ""
     XMPP = ""
     Matrix = ""
-    Bilibili = ""
+    Bilibili = "https://space.bilibili.com/85672046"
     Discord = ""
     DiscordInvite = ""
     Lichess = ""
@@ -366,7 +366,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Codeberg = ""
     HuggingFace = ""
     Threads = ""
-    Email = ""
+    Email = "zy@acezy.top"
     RSS = ""
 
   # Page global config
@@ -498,7 +498,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Comment config
     # 评论系统设置
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
@@ -517,7 +517,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -556,8 +556,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Telegram comments config (https://comments.app/)
       # Telegram comments 评论系统设置 (https://comments.app/)
       [params.page.comment.telegram]
-        enable = false
-        siteID = ""
+        enable = true
+        siteID = "HAB2WF7A"
         limit = 5
         height = ""
         color = ""
