@@ -558,12 +558,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [params.page.comment.telegram]
         enable = true
         siteID = "HAB2WF7A"
-        limit = 5
+        limit = 10
         height = ""
         color = ""
         colorful = true
         dislikes = false
-        outlined = false
+        outlined = true
       # Commento comment config (https://commento.io/)
       # Commento comment 评论系统设置 (https://commento.io/)
       [params.page.comment.commento]
