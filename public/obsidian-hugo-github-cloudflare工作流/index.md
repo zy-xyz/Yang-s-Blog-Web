@@ -44,47 +44,47 @@ git push -u origin main 
 ## 3. github action 自动更新
 在 `.github/workflows` 中中创建一个 `hugo.yml`，内容如下：
 ```yaml
-name: GitHub Pages  
+name: GitHub Pages
 
-on:  
-  push:  
+on:
+  push:
     分支:
-      - main  # Set a branch to deploy  
-  pull_request:  
+      - main  # Set a branch to deploy
+  pull_request:
 
-jobs:  
-  deploy:  
-    runs-on: ubuntu-latest      
-    concurrency  :  
-      group: ${{ github.workflow }}-${{ github.ref }}    
-    steps  :  
-      - uses: actions/checkout@v4    
-        with  :  
-          submodules: true  # Fetch Hugo themes (true OR recursive)    
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod    
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo    
-        uses: peaceiris/actions-hugo@v3    
-        with  :  
-          hugo-version: '0.145.0'    
-          extended: true      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.145.0'
+          extended: true
           
-      - run: git pull    
+      - run: git pull
       
-      - name: Build    
-        run: hugo --minify    
-      -   run: |  
-             git config user.name "github-actions[bot]"    
+      - name: Build
+        run: hugo --minify
+      - run: |
+             git config user.name "github-actions[bot]"
              git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-             git add ./public        
-             git commit -m "generated"      
-             git push        
-      -   name: Deploy  
-        uses  : peaceiris/actions-gh-pages@v3  
-        if  : github.ref == 'refs/heads/main'  
-        with      :
-          github_token  : ${{ secrets.GITHUB_TOKEN }}    
-          publish_dir  : ./public  
+             git add ./public
+             git commit -m "generated"
+             git push
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
 ```
 然后在项目设置中找到 `action` 项，选择通用，划到最下方工作流权限并给予读写权限。
 好了，现在修改`main`中的文件便会触发博客的自动更新。
