@@ -12,7 +12,7 @@ series:
 dir: posts/Obsidian+Hugo+github+cloudflare 工作流
 share-hugo: true
 date: 2025-06-27T02:04:48+08:00
-lastmod: 2025-06-28T15:09:32+08:00
+lastmod: 2025-06-28T15:17:04+08:00
 ---
 ## 1. hugo 本地构建
 参考文献[主题文档 - 基本概念 - LoveIt](https://hugoloveit.com/zh-cn/theme-documentation-basics/#site-configuration)
@@ -51,7 +51,9 @@ hugo serve 
 ## 2. 上传项目至github
 两种上传方案，一种是使用 github desktop 客户端上传整个项目，第二种是 github 中新建项目,然后在本地项目文件夹中打开命令行输入：
 ```zsh
-git remote add origin https://github.com/{用户名}/{项目名}.git                    git add .                                                                        git commit -m "first commit"
+git remote add origin https://github.com/{用户名}/{项目名}.git
+git add .
+git commit -m "first commit"
 git branch -M main  
 git push -u origin main  
 ```
