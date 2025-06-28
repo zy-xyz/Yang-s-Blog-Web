@@ -37,7 +37,9 @@ hugo serve 
 ## 2. 上传项目至github
 两种上传方案，一种是使用 github desktop 客户端上传整个项目，第二种是 github 中新建项目,然后在本地项目文件夹中打开命令行输入：
 ```zsh
-git remote add origin https://github.com/{用户名}/{项目名}.git                    git add .                                                                        git commit -m "first commit"
+git remote add origin https://github.com/{用户名}/{项目名}.git
+git add .
+git commit -m "first commit"
 git branch -M main  
 git push -u origin main  
 ```
