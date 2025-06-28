@@ -12,7 +12,7 @@ series:
 dir: posts/Obsidian+Hugo+github+cloudflare 工作流
 share-hugo: true
 date: 2025-06-27T02:04:48+08:00
-lastmod: 2025-06-28T12:06:05+08:00
+lastmod: 2025-06-28T14:40:51+08:00
 ---
 # 1. hugo 本地构建
 参考文献[主题文档 - 基本概念 - LoveIt](https://hugoloveit.com/zh-cn/theme-documentation-basics/#site-configuration)
@@ -25,7 +25,7 @@ brew 安装
 ```zsh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"          
 ```
-或使用清华源[homebrew \| 镜像站使用帮助 \| 清华大学开源软件镜像站 \| Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)进行安装
+或使用清华源[homebrew](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)进行安装
 ## 1.2 创建项目
 ```zsh
 hugo new site my_website      
@@ -33,7 +33,7 @@ cd my_website 
 ```
 此处`my_website`为项目名称
 ## 1.3 安装主题
-我使用的主题为[GitHub - dillonzq/LoveIt: ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题](https://github.com/dillonzq/LoveIt)
+我使用的主题为[GitHub - dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
 为了后期便于上传 github，所以此处要将你的项目初始化为 git 仓库, 并且把主题仓库作为你的网站目录的子模块:
 ```zsh
 git init          
@@ -97,9 +97,21 @@ jobs: 
         uses  : peaceiris/actions-gh-pages@v3
         if  : github.ref == 'refs/heads/main'
         with    :
-          github_token  : ${{ secrets.GITHUB_TOKEN }}
+          github_token  : ${{ secrets.GITHUB_TOKEN }}  
           publish_dir  : ./public
 ```
 然后在项目设置中找到 `action` 项，选择通用，划到最下方工作流权限并给予读写权限。
 好了，现在修改`main`中的文件便会触发博客的自动更新。
 # 4. 上传cloudflare
+在登录 cloudflare [Cloudflare Dashboard \| Manage Your Account](https://dash.cloudflare.com/)后选择 Workers 点击创建；选择导入现有 git 仓库，选择刚才创建的仓库，下一步，然后将构建设置中的根目录设置为`public`,即可完成部署。
+如果自己有域名的可在自定义域中添加自己的域名。
+# 番外：快速构建博客
+参考来源[使用Obsidian优雅地写Hugo博客文章 \| 梓言堂 - Yuk's Blog](https://blog.yuk7.com/posts/obsidian-hugo/)
+使用到以下插件：
+- [Enveloppe  ](https://github.com/Enveloppe/obsidian-enveloppe)
+- [Remotely Save  ](https://github.com/remotely-save/remotely-save)
+- [Templater  ](https://github.com/SilentVoid13/Templater)
+- [Auto Link Title  ](https://github.com/zolrath/obsidian-auto-link-title)
+- [Image Converter  ](https://github.com/xryul/obsidian-image-converter)
+- [auto upload image with picgo](https://github.com/renmu123/obsidian-image-auto-upload-plugin)
+Templater：  
