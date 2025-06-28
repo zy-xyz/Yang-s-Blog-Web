@@ -93,6 +93,7 @@ jobs:
 如果自己有域名的可在自定义域中添加自己的域名。
 ## 番外：快速构建博客
 参考来源[使用Obsidian优雅地写Hugo博客文章 \| 梓言堂 - Yuk's Blog](https://blog.yuk7.com/posts/obsidian-hugo/)
+
 使用到以下插件：
 - [Enveloppe](https://github.com/Enveloppe/obsidian-enveloppe)
 - [Remotely Save ](https://github.com/remotely-save/remotely-save)
@@ -100,5 +101,6 @@ jobs:
 - [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title)
 - [Image Converter](https://github.com/xryul/obsidian-image-converter)
 - [auto upload image with picgo](https://github.com/renmu123/obsidian-image-auto-upload-plugin)
-Templater：                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+参考资料：
 
