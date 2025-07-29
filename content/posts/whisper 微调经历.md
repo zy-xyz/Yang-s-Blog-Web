@@ -8,8 +8,8 @@ categories:
   - 技术
 dir: posts/whisper 微调经历
 share-hugo: true
-date: 2025-06-27T02:04:48+08:00
-lastmod: 2025-07-29T14:59:29+08:00
+date: 2025-07-23T14:59:29+08:00
+lastmod: 2025-07-29T15:03:36+08:00
 ---
 https://github.com/Purfview/whisper-standalone-win## 为什么会想做这个项目
 最近在听网课，有些老师的这个发音是相当有特色啊，声音开大了吵我耳朵，声音小了，不知道在说什么，相当恼火！于是乎打算生成一下字幕
