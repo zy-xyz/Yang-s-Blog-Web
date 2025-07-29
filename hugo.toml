@@ -652,7 +652,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
     google = ""
-    bing = ""
+    bing = "00A60E41195D9CAA10BDFB814F5A33D4"
     yandex = ""
     pinterest = ""
     baidu = ""
@@ -675,7 +675,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       id = ""
       # whether to respect the browser’s “do not track” setting
       # 是否遵循浏览器的 “Do Not Track” 设置
-      respectDoNotTrack = false
+      respectDoNotTrack = true
     # Fathom Analytics
     [params.analytics.fathom]
       id = ""
@@ -692,7 +692,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Cookie consent config
   # Cookie 许可配置
   [params.cookieconsent]
-    enable = false
+    enable = true
     # text strings used for Cookie consent banner
     # 用于 Cookie 许可横幅的文本字符串
     [params.cookieconsent.content]
