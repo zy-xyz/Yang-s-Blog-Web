@@ -9,7 +9,7 @@ brew install hugo 
 ```
 brew 安装
 ```zsh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 或使用清华源[homebrew](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)进行安装
 ### 1.2 创建项目
@@ -73,33 +73,32 @@ jobs:
           
       - run: git pull
       
-      - name: Build
-        run: hugo --minify
-      - run: |
-             git config user.name "github-actions[bot]"
-             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-             git add ./public
-             git commit -m "generated"
-             git push
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+      - name: Build                                                        run: hugo --minify    
+      - run: |    
+             git config user.name "github-actions[bot]"  
+             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"  
+             git add ./public  
+             git commit -m "generated"  
+             git push  
+      - name: Deploy  
+        uses: peaceiris/actions-gh-pages@v3  
+        if: github.ref == 'refs/heads/main'  
+        with  :
+          github_token: ${{ secrets.GITHUB_TOKEN }}  
+          publish_dir: ./public  
 ```
 然后在项目设置中找到 `action` 项，选择通用，划到最下方工作流权限并给予读写权限。
 好了，现在修改`main`中的文件便会触发博客的自动更新。
-## 4. 上传cloudflare  
-在登录 cloudflare [Cloudflare Dashboard \| Manage Your Account](https://dash.cloudflare.com/)后选择 Workers 点击创建；选择导入现有 git 仓库，选择刚才创建的仓库，下一步，然后将构建设置中的根目录设置为`public`,即可完成部署。
+## 4. 上传cloudflare    
+在登录 cloudflare [Cloudflare Dashboard \| Manage Your Account](https://dash.cloudflare.com/)后选择 Workers 点击创建；选择导入现有 git 仓库，选择刚才创建的仓库，下一步，然后将构建设置中的根目录设置为`public`,即可完成部署。  
 如果自己有域名的可在自定义域中添加自己的域名。
 ## 番外：快速构建博客
-参考来源[使用Obsidian优雅地写Hugo博客文章 \| 梓言堂 - Yuk's Blog](https://blog.yuk7.com/posts/obsidian-hugo/)
+参考来源[使用Obsidian优雅地写Hugo博客文章 \| 梓言堂 - Yuk's Blog  ](https://blog.yuk7.com/posts/obsidian-hugo/)
 
 使用到以下插件：
-- [Enveloppe](https://github.com/Enveloppe/obsidian-enveloppe)
-- [Remotely Save ](https://github.com/remotely-save/remotely-save)
-- [Templater](https://github.com/SilentVoid13/Templater)
+- [Enveloppe  ](https://github.com/Enveloppe/obsidian-enveloppe)
+- [Remotely Save   ](https://github.com/remotely-save/remotely-save)
+- [Templater  ](https://github.com/SilentVoid13/Templater)
 - [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title)
 - [Image Converter](https://github.com/xryul/obsidian-image-converter)
 - [auto upload image with picgo](https://github.com/renmu123/obsidian-image-auto-upload-plugin)
