@@ -558,8 +558,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [params.page.comment.telegram]
         enable = true
         siteID = "HAB2WF7A"
-        limit = 10
-        height = "300"
+        limit = 100
+        height = ""
         color = ""
         colorful = true
         dislikes =  true
