@@ -1,10 +1,16 @@
 ---
 date: 2025-09-10T23:24:40+08:00
-lastmod: 2025-09-11T09:46:49+08:00
+lastmod: 2025-09-11T11:38:33+08:00
 title: RTX HDR参数设置
 dir: posts/RTX HDR参数设置
 share-hugo: true
+tags:
+  - rtx
+  - nvidia
+  - hdr
 ---
+摘自[RTX HDR参数设置 - 哔哩哔哩](https://www.bilibili.com/opus/1038331983315337235)
+
 显示器峰值亮度400nit 纸白101nit 中间灰22；
 
 显示器峰值亮度600nit 纸白138nit 中间灰30；
