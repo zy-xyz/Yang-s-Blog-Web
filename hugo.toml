@@ -509,11 +509,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
-        enable = false
-        owner = ""
-        repo = ""
-        clientId = ""
-        clientSecret = ""
+        enable = true
+        owner = "zy-xyz"
+        repo = "Yang-s-Blog-Web"
+        clientId = "Ov23lii0b88TBKYi7HKR"
+        clientSecret = "5ea7e7d6f24e06e99493c4c101a7ba825c268094"
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
@@ -556,7 +556,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Telegram comments config (https://comments.app/)
       # Telegram comments 评论系统设置 (https://comments.app/)
       [params.page.comment.telegram]
-        enable = true
+        enable = false
         siteID = "HAB2WF7A"
         limit = 100
         height = ""
