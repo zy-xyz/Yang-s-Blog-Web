@@ -1,12 +1,13 @@
 ---
 date: 2025-09-10T23:26:07+08:00
-lastmod: 2025-09-11T11:36:32+08:00
+lastmod: 2025-09-11T11:37:21+08:00
 title: 在 Linux 和 Windows 11 上启用 TCP BBR v2
 dir: posts/在 Linux 和 Windows 11 上启用 TCP BBR v2
 share-hugo: true
 tags:
   - bbrv2
   - windows11
+summary: BBR 是 Google 开发的 TCP 拥塞控制算法。它改进了传统拥塞控制算法（如 CUBIC）的缺点，这些算法会降低丢包速度，从而显着提高高丢包环境中的带宽利用率。值得注意的是，拥塞控制算法管理**数据包发送速率**。例如，如果 Google 服务器启用了 BBR，则其上传速度将最大化可用带宽;从用户的角度来看，这会导致更快的下载速度。
 ---
 
 
