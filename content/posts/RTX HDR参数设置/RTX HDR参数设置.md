@@ -1,6 +1,6 @@
 ---
 date: 2025-09-10T23:24:40+08:00
-lastmod: 2025-09-11T11:39:24+08:00
+lastmod: 2025-09-11T11:40:55+08:00
 title: RTX HDR参数设置
 dir: posts/RTX HDR参数设置
 share-hugo: true
@@ -8,6 +8,7 @@ tags:
   - rtx
   - nvidia
   - hdr
+summary: RTX HDR参数设置
 ---
 摘自[RTX HDR参数设置 - 哔哩哔哩](https://www.bilibili.com/opus/1038331983315337235)
 
