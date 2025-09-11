@@ -1,6 +1,6 @@
 ---
 title: Windows 内存利用率优化
-slug:
+slug: 
 summary: 本文介绍了如何通过PowerShell的MMAgent命令行工具调整Windows系统预加载和内存管理设置，如程序预加载、内存压缩和页组合等，以提升日常使用体验。作者强调了某些设置如MemoryCompression的关闭原因，指出其对性能的影响并不明显。
 tags:
   - Windows
