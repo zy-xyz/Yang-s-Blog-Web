@@ -509,7 +509,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
-        enable = true
+        enable = false
         owner = "zy-xyz"
         repo = "Yang-s-Blog-Web"
         clientId = "Ov23lii0b88TBKYi7HKR"
@@ -571,9 +571,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # utterances comment config (https://utteranc.es/)
       # utterances comment 评论系统设置 (https://utteranc.es/)
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
-        repo = ""
+        repo = "zy-xyz/Yang-s-Blog-Web"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
