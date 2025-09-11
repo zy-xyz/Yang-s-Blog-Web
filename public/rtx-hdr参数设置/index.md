@@ -1,5 +1,7 @@
 # RTX HDR参数设置
 
+摘自[RTX HDR参数设置 - 哔哩哔哩](https://www.bilibili.com/opus/1038331983315337235)
+
 显示器峰值亮度400nit 纸白101nit 中间灰22；
 
 显示器峰值亮度600nit 纸白138nit 中间灰30；

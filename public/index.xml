@@ -12,8 +12,7 @@
     <pubDate>Wed, 10 Sep 2025 23:26:07 &#43;0800</pubDate>
     <author>zy@acezy.top (郑阳)</author>
     <guid>http://localhost:12899/%E5%9C%A8-linux-%E5%92%8C-windows-11-%E4%B8%8A%E5%90%AF%E7%94%A8-tcp-bbr-v2/</guid>
-    <description><![CDATA[<p>发布者<a href="https://dev.moe/en/author/coxxs" target="_blank" rel="noopener noreffer ">考克斯</a><a href="https://dev.moe/en/3021" target="_blank" rel="noopener noreffer ">2023-04-26</a>发表于<a href="https://dev.moe/en/category/random-en" target="_blank" rel="noopener noreffer ">随机</a></p>
-<p>BBR 是 Google 开发的 TCP 拥塞控制算法。它改进了传统拥塞控制算法（如 CUBIC）的缺点，这些算法会降低丢包速度，从而显着提高高丢包环境中的带宽利用率。</p>]]></description>
+    <description><![CDATA[BBR 是 Google 开发的 TCP 拥塞控制算法。它改进了传统拥塞控制算法（如 CUBIC）的缺点，这些算法会降低丢包速度，从而显着提高高丢包环境中的带宽利用率。值得注意的是，拥塞控制算法管理<strong>数据包发送速率</strong>。例如，如果 Google 服务器启用了 BBR，则其上传速度将最大化可用带宽;从用户的角度来看，这会导致更快的下载速度。]]></description>
 </item>
 <item>
     <title>RTX HDR参数设置</title>
@@ -21,9 +20,9 @@
     <pubDate>Wed, 10 Sep 2025 23:24:40 &#43;0800</pubDate>
     <author>zy@acezy.top (郑阳)</author>
     <guid>http://localhost:12899/rtx-hdr%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE/</guid>
-    <description><![CDATA[<p>显示器峰值亮度400nit 纸白101nit 中间灰22；</p>
-<p>显示器峰值亮度600nit 纸白138nit 中间灰30；</p>
-<p>显示器峰值亮度800nit 纸白172nit 中间灰37；</p>]]></description>
+    <description><![CDATA[<p>摘自<a href="https://www.bilibili.com/opus/1038331983315337235" target="_blank" rel="noopener noreffer ">RTX HDR参数设置 - 哔哩哔哩</a></p>
+<p>显示器峰值亮度400nit 纸白101nit 中间灰22；</p>
+<p>显示器峰值亮度600nit 纸白138nit 中间灰30；</p>]]></description>
 </item>
 <item>
     <title>Windows 内存利用率优化</title>
