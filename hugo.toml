@@ -559,11 +559,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         enable = true
         siteID = "HAB2WF7A"
         limit = 10
-        height = ""
+        height = "300"
         color = ""
         colorful = true
-        dislikes = false
-        outlined = true
+        dislikes =  true
+        outlined =  true
       # Commento comment config (https://commento.io/)
       # Commento comment 评论系统设置 (https://commento.io/)
       [params.page.comment.commento]
@@ -692,7 +692,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Cookie consent config
   # Cookie 许可配置
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     # 用于 Cookie 许可横幅的文本字符串
     [params.cookieconsent.content]
