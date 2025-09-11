@@ -1,9 +1,12 @@
 ---
 date: 2025-09-10T23:26:07+08:00
-lastmod: 2025-09-11T10:49:11+08:00
+lastmod: 2025-09-11T11:36:32+08:00
 title: 在 Linux 和 Windows 11 上启用 TCP BBR v2
 dir: posts/在 Linux 和 Windows 11 上启用 TCP BBR v2
 share-hugo: true
+tags:
+  - bbrv2
+  - windows11
 ---
 
 
